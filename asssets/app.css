@@ -1,0 +1,16 @@
+.a-primary {
+    font-size: 28px;
+    color: red;
+}
+
+.btn-m {
+    margin-bottom: 5px;
+}
+
+.n-btn:hover {
+    background-color: green;  
+}
+
+.ed-tech {
+ width: 300px;   
+}
